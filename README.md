@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/codesbygom">
+  <a href="https://github.com/arashmgn">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=50&lines=Hi%2C+I'm+Arash+%F0%9F%91%8B;Backend+%C2%B7+Game+Developer;C%23+%C2%B7+Python+%C2%B7+TypeScript;Building+Open+Source+apps+" alt="Backend · Game Developer"/>
   </a>
 </p>
@@ -48,13 +48,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=codesbygom&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="Commit streak" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=arashmgn&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="Commit streak" height="170"/>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codesbygom/codesbygom/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codesbygom/codesbygom/output/github-snake.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/codesbygom/codesbygom/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arashmgn/arashmgn/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arashmgn/arashmgn/output/github-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/arashmgn/arashmgn/output/github-snake.svg"/>
 </picture>
 
 ---
