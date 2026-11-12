@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://github.com/arashmgn">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=50&lines=Hi%2C+I'm+Arash+%F0%9F%91%8B;Game+%C2%B7+Backend+Developer;C%23+%C2%B7+C%2B%2B+%C2%B7+Python;Building+Open+Source+apps" alt="Game · Backend Developer"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=50&lines=Hi%2C+I'm+Arash+%F0%9F%91%8B;Game+%C2%B7+Backend+Developer;C%23+%C2%B7+C%2B%2B+%C2%B7+Python;Building+open-source+apps" alt="Game · Backend Developer"/>
   </a>
 </p>
 
 <p align="center">
-  Backend developer — APIs, data modelling, and the systems behind them.<br/>
-  Also a game developer: gameplay mechanics.
+  Game developer — gameplay mechanics and the systems that drive them.<br/>
+  Also a backend developer — APIs, data modelling, and the systems behind them.
 </p>
 
 <p align="center">
